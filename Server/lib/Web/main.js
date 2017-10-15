@@ -110,7 +110,7 @@ DB.ready = function(){
 			}
 		}
 	});
-	Server.listen(80);
+	Server.listen(Const.WEB_PORT);
 };
 Const.MAIN_PORTS.forEach(function(v, i){
 	var KEY = process.env['WS_KEY'];
