@@ -30,6 +30,7 @@ exports.MAX_OBSERVER = 4;
 exports.TESTER = GLOBAL.ADMIN.concat([
 	"Input tester id here"
 ]);
+exports.WEB_PORT = 80;
 exports.OPTIONS = {
 	'man': { name: "Manner" },
 	'ext': { name: "Injeong" },
