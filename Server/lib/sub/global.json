@@ -3,6 +3,8 @@
 	"MAIN_PORTS": [ 8080 ],
 	"KKUTUHOT_PATH": "/kkutu/data/kkutuhot.json",
 	"PASS":"Your password for management Here",
+	"PG_USER": "Your PostgreSQL username here",
 	"PG_PASS": "Your PostgreSQL Password Here",
+	"PG_DB": "Your PostgreSQL db name here",
 	"PG_PORT": 5432
 }
